@@ -6,4 +6,3 @@ To start a game, simply tweet **#cppjoin**! Then respond to the tweets to give i
 
 Happy playing!
 
-Stage 3 Computer Science Software Engineering project

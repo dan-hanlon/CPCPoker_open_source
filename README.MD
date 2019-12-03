@@ -1,4 +1,4 @@
-# Cosy Pepe Poker Twitterbot
+# Poker Twitterbot
 
 This bot plays 5 draw poker via Twitter, at the handle @cosypepepoker
 
